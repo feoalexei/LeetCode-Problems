@@ -8,8 +8,7 @@ const numberOfSteps  = function(num) {
     let counter = 0;
     while (num) {
         num % 2 ? num-- 
-                : num /= 2; 
-                 
+                : num /= 2;         
         counter++;
     }
     return counter;

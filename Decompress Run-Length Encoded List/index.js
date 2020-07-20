@@ -17,17 +17,7 @@ const decompressRLElist = function(nums) {
 
 console.log(decompressRLElist([1,2,3,4]));
 
-// const input = [1,2,3,4];
 
-// let output = [];
-
-// for (let i = 0; i < input.length; i+=2) {
-//     for (let j = 0; j < input[i]; j++) {
-//         output.push(input[i + 1]);        
-//     }   
-// }
-
-// console.log(output);
 
 
 

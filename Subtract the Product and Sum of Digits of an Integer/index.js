@@ -12,13 +12,7 @@ const subtractProductAndSum = function(n) {
 
 console.log(subtractProductAndSum(234));
 
-// const num = 234;
 
-// console.log([...num.toString()].map(n => parseInt(n)).reduce((a,c) => a * c));
-
-// const arr = [2,3,4]
-
-// console.log(arr.reduce((a,c) => a + c));
 
 
 

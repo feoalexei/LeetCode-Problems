@@ -9,6 +9,3 @@ const defangIPaddr = function(address) {
 };
 
 console.log(defangIPaddr("1.1.1.1"));
-
-// const input = "1.1.1.1";
-// const output = address.replace(/./g, "[.]");
